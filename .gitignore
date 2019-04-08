@@ -23,6 +23,7 @@ ExportedObj/
 *.svd
 *.pdb
 *.opendb
+_*.*
 __*.*
 
 ___*.*
